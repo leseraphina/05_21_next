@@ -1,6 +1,6 @@
 import Layout from "@/components/Layout"
 import Link from "next/link";
-import styles from '@/styles/List.module.css';
+
 
 
 export default function castMember({castMember}){
